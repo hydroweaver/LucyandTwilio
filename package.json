@@ -2,11 +2,11 @@
   "name": "lucyapi",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "CallLucyAndSay.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon CallLucyAndSay.js"
   },
-  "author": "",
+  "author": "Karan Verma - HCL Technologies",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^16.4.13",
